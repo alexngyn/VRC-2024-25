@@ -1,0 +1,25 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.bin
+*.elf
+
+# PROS
+bin/
+.vscode/
+.cache/
+compile_commands.json
+temp.log
+temp.errors
+*.ini
+.d/
+
+# Mac Spotlight
+.DS_Store
+
+# Build Folders
+build/
